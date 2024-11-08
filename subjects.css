@@ -1,0 +1,105 @@
+body {
+    background: url(../background/3_20241028_230628_0002.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 99%;
+    background-color: maroon;
+}
+
+.subjects {
+    border-radius: 40px;
+    width: 12%;
+    height: 60px;
+    position: absolute;
+    top: 15%;
+    left: 17%;
+    background-color: rgb(224, 192, 109);
+    text-align: center;
+    line-height: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subjectbox1 {
+    border-radius: 40px;
+    width: 12%;
+    height: 60px;
+    position: absolute;
+    top: 27%;
+    left: 17%;
+    background-color: rgb(224, 192, 109);
+    text-align: center;
+    line-height: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subjectbox2 {
+    border-radius: 40px;
+    width: 12%;
+    height: 60px;
+    position: absolute;
+    top: 39%;
+    left: 17%;
+    background-color: rgb(224, 192, 109);
+    text-align: center;
+    line-height: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subjectbox3 {
+    border-radius: 40px;
+    width: 12%;
+    height: 60px;
+    position: absolute;
+    top: 51%;
+    left: 17%;
+    background-color: rgb(224, 192, 109);
+    text-align: center;
+    line-height: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subjectbox4 {
+    border-radius: 40px;
+    width: 12%;
+    height: 60px;
+    position: absolute;
+    top: 63%;
+    left: 17%;
+    background-color: rgb(224, 192, 109);
+    text-align: center;
+    line-height: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.action1 {
+    border-radius: 40px;
+    width: 12%;
+    height: 60px;
+    position: absolute;
+    top: 27%;
+    right: 17%;
+    background-color: rgb(224, 192, 109);
+}
+.action2 {
+    border-radius: 40px;
+    width: 12%;
+    height: 60px;
+    position: absolute;
+    top: 39%;
+    right: 17%;
+    background-color: rgb(224, 192, 109);
+}
+.action3 {
+    border-radius: 40px;
+    width: 12%;
+    height: 60px;
+    position: absolute;
+    top: 51%;
+    right: 17%;
+    background-color: rgb(224, 192, 109);
+}
+.action4 {
+    border-radius: 40px;
+    width: 12%;
+    height: 60px;
+    position: absolute;
+    top: 63%;
+    right: 17%;
+    background-color: rgb(224, 192, 109);
+}
